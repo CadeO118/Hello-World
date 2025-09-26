@@ -5,7 +5,7 @@ This is my sample of a readme that I can use to describe a project
   
 
 # Table of contents
-- [PROJECT TITLE ](#Project_Title)
+- [Project Title](#Project_Title)
 - [Tools Used](#Tools_Used)
 - [Files Used](#Files_Used)
 - [Aiiditional Info](#Additional_Info)
